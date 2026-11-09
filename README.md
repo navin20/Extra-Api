@@ -1,4 +1,4 @@
-# NewApi
+# C#Api
 
 A lightweight ASP.NET Core Web API for managing product data with PostgreSQL. This project demonstrates a simple layered API design using controllers, repositories, and services.
 
